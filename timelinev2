@@ -1,5 +1,5 @@
 {
-  "is_ads_enabled": true,
+  "is_ads_enabled": false,
   "app_open_ad": {
     "is_enabled": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
