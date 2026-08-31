@@ -1,24 +1,24 @@
 {
   "is_ads_enabled": false,
   "app_open_ad": {
-    "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+    "is_enabled": false,
+    "ad_unit_id": "ca-app-pub-3061080223322017/4202441174"
   },
   "banner_ad": {
     "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+    "ad_unit_id": "ca-app-pub-3061080223322017/9287246899"
   },
   "interstitial_ad": {
-    "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "is_enabled": false,
+    "ad_unit_id": "ca-app-pub-3061080223322017/1767849527",
     "interval_clicks": 1
   },
   "rewarded_ad": {
-    "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
+    "is_enabled": false,
+    "ad_unit_id": "ca-app-pub-3061080223322017/4202441174"
   },
   "native_ad": {
-    "is_enabled": true,
-    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+    "is_enabled": false,
+    "ad_unit_id": "ca-app-pub-3061080223322017/1823689848"
   }
 }
