@@ -1,7 +1,7 @@
 {
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "app_open_ad": {
-    "is_enabled": false,
+    "is_enabled": true,
     "ad_unit_id": "ca-app-pub-3061080223322017/4202441174"
   },
   "banner_ad": {
@@ -9,16 +9,16 @@
     "ad_unit_id": "ca-app-pub-3061080223322017/9287246899"
   },
   "interstitial_ad": {
-    "is_enabled": false,
+    "is_enabled": true,
     "ad_unit_id": "ca-app-pub-3061080223322017/1767849527",
     "interval_clicks": 1
   },
   "rewarded_ad": {
-    "is_enabled": false,
+    "is_enabled": true,
     "ad_unit_id": "ca-app-pub-3061080223322017/4202441174"
   },
   "native_ad": {
-    "is_enabled": false,
+    "is_enabled": true,
     "ad_unit_id": "ca-app-pub-3061080223322017/1823689848"
   }
 }
